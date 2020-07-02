@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBuku</string>
+    <string name="green_button">green</string>
+    <string name="blue_button">blue</string>
+    <string name="red_button">red</string>
+    <string name="black_button">black</string>
+</resources>
